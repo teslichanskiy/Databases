@@ -1,0 +1,8 @@
+discount_id;percent;seasoned;for_VIP;min_duration_of_rent
+1;50;1;1;21
+2;40;0;1;14
+3;30;0;1;10
+4;20;1;0;14
+5;15;0;1;7
+6;10;1;0;7
+7;5;0;0;7
